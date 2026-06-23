@@ -27,6 +27,7 @@
 - [Iconfont](http://www.iconfont.cn/) - Iconfont-阿里巴巴矢量图标库
 - [tinypng](https://tinypng.com/) - Smart PNG and JPEG compression
 - [ILoveIMG](http://www.iloveimg.com/) - every tool you could want to edit images
+- [Mini-Tools Free Image Hosting](https://mini-tools.uk/upload) - Upload an image and generate direct URL, Markdown, HTML, and BBCode snippets for README files, documentation, forums, and quick sharing.
 - [Textik](https://textik.com/) - ASCII diagrams editor
 - [emojipedia](http://emojipedia.org/) - 各种类型的emoji表情
 - [Vizua](https://vizua.io/) - Free browser-based image tools — compress, resize, convert (WebP, AVIF), remove background, upscale, OCR. 91 tools, all client-side.
