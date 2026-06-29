@@ -30,7 +30,7 @@
 - [Textik](https://textik.com/) - ASCII diagrams editor
 - [emojipedia](http://emojipedia.org/) - 各种类型的emoji表情
 - [Vizua](https://vizua.io/) - Free browser-based image tools — compress, resize, convert (WebP, AVIF), remove background, upscale, OCR. 91 tools, all client-side.
-- [FreePNGConvert](https://freepngconvert.com/) - Free browser-side WebP to PNG converter. No upload to server, fast, private, unlimited conversions.
+- [FreePNGConvert](https://freepngconvert.com) - Free online WebP to PNG converter. 100% in-browser, no uploads, private and unlimited.
 
 ## Screenshot
 - [Screen Guru](https://screen.guru/) - Take clean screenshot of any websites
